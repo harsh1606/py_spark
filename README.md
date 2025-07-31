@@ -1,4 +1,4 @@
-# ⚡ PySpark Playground
+# ⚡ PySpark
 
 This repository contains various PySpark scripts and notebooks used for exploring, learning, and testing Apache Spark with Python.
 
